@@ -2,6 +2,13 @@
 
 A (moderately) simple man-like program to get Python documentation / reference pages.
 
+## USAGE
+
+`pyref [page] [-s/--section section]`
+
+Default sections:
+`c-api, deprecations, distributing, extending, faq, howto, installing, library, reference, tutorial, using, whatsnew`
+
 ## TODO
 
 - Make pyref_mp parse the .rst files into a more human-readable format, not just plain text. 
