@@ -19,7 +19,7 @@ Default sections:
 
 ---
 
-### Linux 
+### Linux (64-bit)
 
 ---
 
